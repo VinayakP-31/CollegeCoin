@@ -1,6 +1,6 @@
-# collegecoin
+# CollegeCoin
 
-A new Flutter project.
+A Student friendly budget tracking app
 
 ## Getting Started
 
